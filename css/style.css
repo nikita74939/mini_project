@@ -586,6 +586,10 @@ li:hover .btn {
     font-weight: 300;
 }
 
+.content-project a {
+    color: #b45683;
+}
+
 /** Footer **/
 footer {
     padding-top: 40px;
